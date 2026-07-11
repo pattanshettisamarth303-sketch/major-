@@ -1,0 +1,16 @@
+feature,importance
+categorical__cp_0,0.13761383538288086
+categorical__thal_2,0.132119857756129
+categorical__thal_3,0.0836980837035395
+numeric__thalach,0.0829185452667906
+numeric__oldpeak,0.0827469649600289
+categorical__ca_0,0.07970216710786353
+categorical__exang_1,0.056522904195487486
+categorical__exang_0,0.049145115807955
+categorical__slope_2,0.045961322787051756
+numeric__age,0.03816810074215129
+numeric__chol,0.0378044011920834
+numeric__trestbps,0.029156214623110677
+categorical__slope_1,0.02544758747231322
+categorical__cp_2,0.022650121603658802
+categorical__sex_1,0.01803398209650793
